@@ -98,4 +98,9 @@ templates:
         family_name :
       description : TOSCA based template for resource shell
       repository : https://github.com/QualiSystems/shellfoundry-tosca-resource-template
-
+    - name : tosca/resource/vido
+      params:
+        project_name :
+        family_name :
+      description : TOSCA based template for resource shell
+      repository : https://github.com/johnathanvidu/shellfoundry-tosca-networking-template
